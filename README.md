@@ -31,11 +31,12 @@
 | **[local-rag](https://github.com/needlehmbl/local-rag)** | Fully-local RAG: chunk → embed via Ollama → pgvector search → cited answers. FastAPI + SSE streaming + demo UI. | Python, Ollama, Postgres/pgvector, FastAPI |
 | **[media-manager](https://github.com/needlehmbl/media-manager)** | Self-hosted media download manager: parallel yt-dlp queue, playlist recursion, metadata embed, auto-resume, searchable library, channel checks. | Python, FastAPI, React, Docker Compose |
 | **[doc-pipeline](https://github.com/needlehmbl/doc-pipeline)** | Offline document intelligence: ingest PDFs/images/CSVs, extract structured data with Ollama, schema + confidence validation, load to SQLite. | Python, Ollama, SQLite |
-| **[security-audit](https://github.com/needlehmbl/security-audit)** | Local network & host scanner: live-host discovery, port/service scan, SSH + firewall hardening checks, severity-ranked Markdown report. | Python |
+| **[kanban](https://github.com/needlehmbl/kanban)** | Real-time multi-user kanban board with GitHub OAuth, drag-and-drop, live WebSocket updates. Live demo [here](https://needlehmbl.github.io/kanban-demo/). | TypeScript, Express, Socket.io, Prisma, Postgres, React, Docker |
 
 <details>
 <summary><b>🧪 More repos</b></summary>
 
+- **[security-audit](https://github.com/needlehmbl/security-audit)** — Local network & host security scanner with Markdown audit report
 - **[glowpoint-dashboard](https://github.com/needlehmbl/glowpoint-dashboard)** — TypeScript dashboard
 - **[glowpoint-client](https://github.com/needlehmbl/glowpoint-client)** — JavaScript client
 - **[nasa-react-app](https://github.com/needlehmbl/nasa-react-app)** — NASA API React app
