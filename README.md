@@ -19,7 +19,7 @@
 - 🧑‍💻 Ernest Soquena — I go by **Needle** — based in Metro Manila, PH
 - 🛠️ I like **offline / self-hosted** stuff: RAG, doc pipelines, media managers, security tooling
 - 🌱 Currently focused on **FastAPI + Postgres + React**, plus Three.js for fun
-- 🎯 Open to **junior dev / internship** roles
+- 🎯 Open to **junior dev** roles
 - 🌐 Portfolio: **[needlehmbl.github.io/3d-portfolio](https://needlehmbl.github.io/3d-portfolio/)**
 
 ### 🚀 Featured projects
