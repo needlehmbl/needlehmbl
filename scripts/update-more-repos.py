@@ -97,7 +97,7 @@ def repo_block(repo: dict) -> str:
     name = html.escape(repo["name"])
     url = html.escape(repo["url"], quote=True)
     desc = html.escape(repo["description"])
-    return f"<h2><a href=\"{url}\">{name}</a></h2>\n<h3>{desc}</h3>"
+    return f"<h4><a href=\"{url}\">{name}</a></h4>\n<p>{desc}</p>"
 
 
 def build_table(repos: list[dict]) -> str:
