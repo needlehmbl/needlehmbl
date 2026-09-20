@@ -113,12 +113,9 @@ def build_table(repos: list[dict]) -> str:
     for col in columns:
         lines.append('<td valign="top">')
         lines.append("")
-        for i, repo in enumerate(col):
+        for repo in col:
             lines.append(repo_block(repo))
-            if i < len(col) - 1:
-                lines.append("<br/>")
-                lines.append("")
-        lines.append("")
+            lines.append("")
         lines.append("</td>")
     lines.append("</tr>")
     lines.append("</table>")

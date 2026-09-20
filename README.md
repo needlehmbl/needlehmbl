@@ -45,35 +45,27 @@
 
 <h4><a href="https://github.com/needlehmbl/FinalProjectMobile">FinalProjectMobile</a></h4>
 <p>Android Translator App using Google ML Kit and Firebase Realtime Database</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/glowpoint-client">glowpoint-client</a></h4>
 <p>JavaScript client</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/glowpoint-dashboard">glowpoint-dashboard</a></h4>
 <p>TypeScript dashboard</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/go-go-ghost">go-go-ghost</a></h4>
 <p>Godot / GDScript game</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/inventory-api">inventory-api</a></h4>
 <p>Library-style lending API: ASP.NET Core + EF Core/Postgres with JWT auth, roles, concurrent-safe checkout workflow, React frontend, Docker Compose</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/kanban-demo">kanban-demo</a></h4>
 <p>Live browser-only demo of the kanban board (auto-built from needlehmbl/kanban)</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/nasa-react-app">nasa-react-app</a></h4>
 <p>NASA API React app</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/security-audit">security-audit</a></h4>
 <p>Local network &amp; host security scanner: discovers live hosts, scans for open ports/services, checks SSH and firewall hardening, and generates a severity-ranked Markdown audit report.</p>
-<br/>
 
 <h4><a href="https://github.com/needlehmbl/TPWeb">TPWeb</a></h4>
 <p>Web tech project (CSS)</p>
