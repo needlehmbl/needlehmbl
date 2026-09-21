@@ -50,10 +50,10 @@
 <p>Android Translator App using Google ML Kit and Firebase Realtime Database</p>
 
 <h4><a href="https://github.com/needlehmbl/glowpoint-client">glowpoint-client</a></h4>
-<p>JavaScript client</p>
+<p>Customer booking app for Glow Point salon (React + Vite + Supabase): service catalog, booking flow, GCash QR payments, live walk-in queue</p>
 
 <h4><a href="https://github.com/needlehmbl/glowpoint-dashboard">glowpoint-dashboard</a></h4>
-<p>TypeScript dashboard</p>
+<p>Admin dashboard for Glow Point salon bookings (Next.js + TypeScript + Supabase): appointments, payments, calendar, analytics</p>
 
 <h4><a href="https://github.com/needlehmbl/go-go-ghost">go-go-ghost</a></h4>
 <p>Godot / GDScript game</p>

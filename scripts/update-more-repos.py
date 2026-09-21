@@ -45,8 +45,8 @@ EXCLUDE = {"needlehmbl"}
 # If the API description is non-empty it always wins; these only fill gaps
 # so future auto-added repos still get a one-liner until you set a description.
 FALLBACK_DESCRIPTIONS = {
-    "glowpoint-dashboard": "TypeScript dashboard",
-    "glowpoint-client": "JavaScript client",
+    "glowpoint-dashboard": "Admin dashboard for Glow Point salon bookings (Next.js + TypeScript + Supabase): appointments, payments, calendar, analytics",
+    "glowpoint-client": "Customer booking app for Glow Point salon (React + Vite + Supabase): service catalog, booking flow, GCash QR payments, live walk-in queue",
     "nasa-react-app": "NASA API React app",
     "go-go-ghost": "Godot / GDScript game",
     "TPWeb": "Web tech project (CSS)",
