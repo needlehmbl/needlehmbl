@@ -43,6 +43,9 @@
 <tr>
 <td valign="top">
 
+<h4><a href="https://github.com/needlehmbl/algo-visualizer">algo-visualizer</a></h4>
+<p>JavaFX visualizer for pathfinding (BFS, Dijkstra, A*) and sorting (Bubble, Merge, Quick) algorithms with step-sequence replay animation</p>
+
 <h4><a href="https://github.com/needlehmbl/FinalProjectMobile">FinalProjectMobile</a></h4>
 <p>Android Translator App using Google ML Kit and Firebase Realtime Database</p>
 
@@ -61,11 +64,17 @@
 <h4><a href="https://github.com/needlehmbl/kanban-demo">kanban-demo</a></h4>
 <p>Live browser-only demo of the kanban board (auto-built from needlehmbl/kanban)</p>
 
+<h4><a href="https://github.com/needlehmbl/mini-lang">mini-lang</a></h4>
+<p>Mini interpreted language in plain Java: hand-written lexer, recursive-descent parser, tree-walking interpreter with closures and a CLI REPL</p>
+
 <h4><a href="https://github.com/needlehmbl/nasa-react-app">nasa-react-app</a></h4>
 <p>NASA API React app</p>
 
 <h4><a href="https://github.com/needlehmbl/security-audit">security-audit</a></h4>
 <p>Local network &amp; host security scanner: discovers live hosts, scans for open ports/services, checks SSH and firewall hardening, and generates a severity-ranked Markdown audit report.</p>
+
+</td>
+<td valign="top">
 
 <h4><a href="https://github.com/needlehmbl/TPWeb">TPWeb</a></h4>
 <p>Web tech project (CSS)</p>
