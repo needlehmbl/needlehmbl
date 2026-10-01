@@ -73,11 +73,14 @@
 <h4><a href="https://github.com/needlehmbl/nasa-react-app">nasa-react-app</a></h4>
 <p>NASA API React app</p>
 
-<h4><a href="https://github.com/needlehmbl/security-audit">security-audit</a></h4>
-<p>Local network &amp; host security scanner: discovers live hosts, scans for open ports/services, checks SSH and firewall hardening, and generates a severity-ranked Markdown audit report.</p>
+<h4><a href="https://github.com/needlehmbl/reactjs-todo">reactjs-todo</a></h4>
+<p>React todo app with CRUD</p>
 
 </td>
 <td valign="top">
+
+<h4><a href="https://github.com/needlehmbl/security-audit">security-audit</a></h4>
+<p>Local network &amp; host security scanner: discovers live hosts, scans for open ports/services, checks SSH and firewall hardening, and generates a severity-ranked Markdown audit report.</p>
 
 <h4><a href="https://github.com/needlehmbl/TPWeb">TPWeb</a></h4>
 <p>Web tech project (CSS)</p>
